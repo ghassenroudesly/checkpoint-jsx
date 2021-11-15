@@ -9,8 +9,8 @@ function App() {
     <div className="App">
       <div className="images" style={{ border: "solid 1px black", maxWidth: "100vw" }}>
         <h1 className="title red">Shoes Shop</h1>
-        <img src="./img1.jpg" alt="phones" />
-        <img width="560" height="315" src="./img2.jpg" alt="phones" />
+        <img src="./img1.jpg" alt="shoes" />
+        <img width="560" height="315" src="./img2.jpg" alt="shoes" />
       </div>
     
       <   iframe width="560" height="315" src='https://www.youtube.com/embed/lNvVqcfPYMY'
